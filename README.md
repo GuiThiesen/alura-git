@@ -9,6 +9,6 @@
 <img src="https://jogoveio.com.br/wp-content/uploads/2020/10/especial-logo-alura.png" alt="Alura logo" display="inline"/>
 </p>
 
-<p>Git e Github: Controle e compartilhe seu código</p>
+<h2>Git e Github: Controle e compartilhe seu código</h2>
 
-<p>Git e Github: Estratégias de ramificação, Conflitos e Pull Requests</p>
+<h2>Git e Github: Estratégias de ramificação, Conflitos e Pull Requests</h2>

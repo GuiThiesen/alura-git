@@ -12,3 +12,9 @@
 <p>Git e Github: Controle e compartilhe seu código</p>
 
 <p>Git e Github: Estratégias de ramificação, Conflitos e Pull Requests</p>
+
+<h1>Capacitacao de Git e Github concluida</h1>
+
+<p align="center">
+<img src="https://i.makeagif.com/media/12-29-2015/IyAWum.gif" alt="Vamos-comemorar" display="inline" width="350"/>
+</p>
